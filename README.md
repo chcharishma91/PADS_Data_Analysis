@@ -47,12 +47,17 @@ The goal is to extract insights into how different factors impact tremors and ov
 
 
 PADS_Data_Analysis
-│-- data/ # Raw and processed dataset
-│-- notebooks/ # Jupyter Notebooks for analysis
-│-- reports/ # Visualizations and insights
-│-- README.md # Project documentation
-│-- Detailed_Project_Documentation/ # Additional project details
-│-- PADS_analysis.pbix # Power BI data model and cleaning steps
+│ -- data/ # [Raw and processed dataset](https://www.dropbox.com/scl/fi/w5q0mantky7y3z83yx99t/pads-parkinsons-disease-smartwatch-dataset.zip?rlkey=ojegoam7d8s9rl6tnb6voytpn&st=b9cq3n8o&dl=0)
+
+│ -- notebooks/ # Jupyter Notebooks for analysis
+
+│ -- reports/ # Visualizations and insights
+
+│ -- README.md # Project documentation
+
+│ -- Detailed_Project_Documentation/ # Additional project details
+
+│ -- PADS_analysis.pbix # [Power BI data model and cleaning steps](https://www.dropbox.com/scl/fi/3g9f7m9mlvcnlyai6wszd/PADS_Analysis.pbix?rlkey=ddzlic99p4mf8h82g38dcfd0s&st=kqpu8zxt&dl=0)
 
 
 ---
